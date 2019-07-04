@@ -28,13 +28,12 @@ $aboutme_information = [
     ];
 
     $experience = [
-        'Разработчик в on-line школе Zen Code School: Shinobi' => [
             'HTML',
             'CSS',
             'JavaScript',
             'WordPress',
             'PHP',
-            'MySQL' ],
+            'MySQL' 
         ];
 
 ?>
@@ -98,15 +97,15 @@ $aboutme_information = [
                 </div>
                 <div class="experience-information">
                     <div class="experience-text"><!--почему-то здесь пхп не сработал(пытался сделать многомерный массив)-->
-                    <?php echo $experience[0]; ?>
+                    Разработчик в on-line школе Zen Code School: Shinobi
                     </div>
                     <div class="li">
-                        <span><?php echo $aboutme_information[0][0]; ?></span>
-                        <span><?php echo $aboutme_information[0][1]; ?></span>
-                        <span><?php echo $aboutme_information[0][2]; ?></span>
-                        <span><?php echo $aboutme_information[0][3]; ?></span>
-                        <span><?php echo $aboutme_information[0][4]; ?></span>
-                        <span><?php echo $aboutme_information[0][5]; ?></span>
+                        <span><?php echo $experience[0]; ?></span>
+                        <span><?php echo $experience[1]; ?></span>
+                        <span><?php echo $experience[2]; ?></span>
+                        <span><?php echo $experience[3]; ?></span>
+                        <span><?php echo $experience[4]; ?></span>
+                        <span><?php echo $experience[5]; ?></span>
                     </div>
                 </div>
             </div>
