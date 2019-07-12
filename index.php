@@ -96,7 +96,7 @@ $aboutme_information = [
                     <h2>Опыт работы</h2>
                 </div>
                 <div class="experience-information">
-                    <div class="experience-text"><!--почему-то здесь пхп не сработал(пытался сделать многомерный массив)-->
+                    <div class="experience-text">
                     Разработчик в on-line школе Zen Code School: Shinobi
                     </div>
                     <div class="li">

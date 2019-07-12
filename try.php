@@ -1,4 +1,6 @@
 <p><a href="./index.php">index</a></p>
+<P><a href="./14LESSON.php">14 урок</a></P>
+<p><a href="./homework14.php">дз14</a></p>
 <?php
 
 //echo 'dump';
@@ -62,6 +64,6 @@ $Price++;// читай +1
 $Price--;// читай -1
 //конец первого урока по php
 
-
 ?>
+
 
